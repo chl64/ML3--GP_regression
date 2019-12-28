@@ -14,6 +14,7 @@ Below show the data fits for ***isotopic squared exponential*** and ***periodic*
 
 Gaussian Process had also been used to perform regression on a 2D-input 1D-output dataset `cw1e.mat`. The best result is demonstrated below, where the red surface maps the observed data; black surface gives the prediction:
 
-<p align="center">
-  <img width=500 src="demo_images/e_result_prediction_covSum.jpg">
+<p float="center">
+  <img width=400 src="demo_images/e_result_prediction_covSum.jpg" \>
+  <img width=400 src="demo_images/e_result_performance_covSum.jpg" \>
 </p>
