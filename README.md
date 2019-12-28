@@ -21,4 +21,4 @@ Gaussian Process had also been used to perform regression on a 2D-input 1D-outpu
 
 
 ---
-*Demo above is part of my university coursework. The details of problem statements and analysis can be found in `Problems.pdf` and `Report.pdf` respectively.*
+*Demo above is part of my university coursework. Details of problem statements and analysis can be found in `Problems.pdf` and `Report.pdf` respectively.*
