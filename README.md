@@ -18,3 +18,7 @@ Gaussian Process had also been used to perform regression on a 2D-input 1D-outpu
   <img align="middle" width=400 src="demo_images/e_result_prediction_covSum.jpg" \>
   <img align="middle" width=400 src="demo_images/e_result_performance_covSum.jpg" \>
 </p>
+
+
+---
+*Demo above is part of my university coursework. The details of problem statements and analysis can be found in `Problems.pdf` and `Report.pdf` respectively.*
